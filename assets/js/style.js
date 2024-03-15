@@ -40,4 +40,8 @@ $(document).ready(function () {
             }
         })
     });
+
+    $("#password").on("keyup focus click",function(){
+        $("i").show();
+    });
 });

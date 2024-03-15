@@ -19,6 +19,10 @@
   cursor: pointer;
 }
 
+.z-6 {
+  z-index: 6;
+}
+
 /*=== import bootstrap ===*/
 /*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
