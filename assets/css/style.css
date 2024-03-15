@@ -12,6 +12,13 @@
   left: 75px;
 }
 
+.icon {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  cursor: pointer;
+}
+
 /*=== import bootstrap ===*/
 /*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)

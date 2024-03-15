@@ -11,5 +11,13 @@
     left: 75px;
 }
 
+.icon{
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    cursor: pointer;
+}
+
+
 /*=== import bootstrap ===*/
 @import "../../node_modules/bootstrap/scss/bootstrap";
